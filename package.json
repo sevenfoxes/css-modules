@@ -1,0 +1,28 @@
+{
+  "name": "css-modules",
+  "version": "1.0.0",
+  "description": "My highly-opinionated view of the future of css and css-like things",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevenfoxes/css-modules.git"
+  },
+  "author": "Scott Nesham <sanesham@gmail.com> (https://github.com/sevenfoxes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevenfoxes/css-modules/issues"
+  },
+  "homepage": "https://github.com/sevenfoxes/css-modules#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "gulp": "^3.9.1",
+    "gulp-ejs": "^2.2.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "postcss-modules": "^0.5.2"
+  }
+}
